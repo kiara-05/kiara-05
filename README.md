@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kiara-05
 - 👀 I’m interested in stregthing my coding skills in different languages.
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning microPython.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me, kiara1.pee@famu.edu/kiarapee23@gmail.com
-- 😄 Pronouns: She/They
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a safety for FAMU Womens Flag Football team.
 
 <!---
